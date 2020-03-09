@@ -6,10 +6,6 @@ This is a template to create **ASP.NET Core MVC / Angular** based startup projec
 2. [ASP.NET Core & Angular](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular) (single page application).
  
 
-# Download
-
-Create & download your project from https://aspnetboilerplate.com/Templates
-
 # Screenshots
 
 #### Sample Dashboard Page
